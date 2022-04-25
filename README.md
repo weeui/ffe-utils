@@ -25,12 +25,10 @@ npm install ffe-utils --save-dev
 - `flatTree` 树的扁平化遍历
 - `getUrlSearchValue` 获取地址栏参数
 
+
 ```
-
 import { insertCSS } from 'ffe-utils'
-
 insertCSS('//exp.com/style.css')
-
 ```
 
 ## 🤝 参与贡献
