@@ -76,7 +76,7 @@
       return str;
   }
   /**
-   *检测特殊字符
+   * 检测特殊字符
    * @param str 待检测字符串
    * @returns
   */
