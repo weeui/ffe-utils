@@ -1,5 +1,6 @@
 # ffe-utils
 
+![GitHub package.json version (subfolder of monorepo)](https://img.shields.io/github/package-json/v/weeui/ffe-utils?style=flat-square) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/weeui/ffe-utils?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/weeui/ffe-utils?style=flat-square) ![GitHub language count](https://img.shields.io/github/languages/count/weeui/ffe-utils?style=flat-square)
 ## 📒 介绍
 
 前端开发中常用函数工具集合。

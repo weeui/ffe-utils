@@ -1,6 +1,6 @@
 {
   "name": "ffe-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "前端开发工具函数库",
   "main": "dist/ffe-utils.cjs.js",
   "module": "dist/ffe-utils.esm.js",
